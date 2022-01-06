@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://manthan-gaikwad.netlify.app/)**
 
 - 📫 How to reach me **manthan3153@gmail.com**
 
