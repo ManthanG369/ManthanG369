@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Manthan</h1>
 <h3 align="center">A Passionate aspiring Full Stack Developer skilled in MERN stack, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute towards individual and company growth.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manthang369&label=Profile%20views&color=0e75b6&style=flat" alt="manthang369" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthang369" alt="manthang369" /></a> </p>
 
 - 🔭 I’m currently working on [myportfolio](https://manthan-gaikwad.netlify.app/)
 
@@ -22,6 +19,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YzldjdkZguardcaYF69r0xybpAEoRuWy/view](https://drive.google.com/file/d/1YzldjdkZguardcaYF69r0xybpAEoRuWy/view)
 
 - ⚡ Fun fact **I'm currently reading a book about financial and electric technology to better familiarize myself with the industry and its ongoing trends.**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthang369" alt="manthang369" /></a> </p>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -46,3 +47,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manthang369&" alt="manthang369" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manthang369&label=Profile%20views&color=0e75b6&style=flat" alt="manthang369" /> </p>
