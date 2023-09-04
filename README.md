@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **manthan3153@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YzldjdkZguardcaYF69r0xybpAEoRuWy/view](https://drive.google.com/file/d/1YzldjdkZguardcaYF69r0xybpAEoRuWy/view)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1YzldjdkZguardcaYF69r0xybpAEoRuWy/view](https://drive.google.com/file/d/1HYaFfmOD783ICkhLbUiD4BHiibM4FHXe/view)]
 
 - ⚡ Fun fact **I'm currently reading a book about financial and electric technology to better familiarize myself with the industry and its ongoing trends.**
 
