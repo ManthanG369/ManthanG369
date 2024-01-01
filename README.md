@@ -1,16 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Manthan</h1>
-<h3 align="center">A Passionate aspiring Full Stack Developer skilled in MERN stack, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute towards individual and company growth.</h3>
+<h3 align="center">Hello! 👋 I'm Manthan Gaikwad, a passionate Full Stack Developer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. With a robust skill set and a track record of tackling complex challenges, I'm eager to contribute to individual and company growth.</h3>
 
 
-- 🔭 I’m currently working on [myportfolio](https://manthan-gaikwad.netlify.app/)
+- 🔭 I’m currently building project with react and learning DSA
 
 - 🌱 I’m currently learning **React and Data Structure and Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://manthan-gaikwad.netlify.app/](https://manthan-gaikwad.netlify.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@manthan369](https://medium.com/@manthan369)
 
 - 💬 Ask me about **JavaScript , Data Structure and Algorithm**
 
